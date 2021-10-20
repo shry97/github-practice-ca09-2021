@@ -140,3 +140,4 @@
 | 110 | Yuxin Cheng            | A14              |     yuxinchengmfa             | 2021-10-04    |  https://github.com/yuxinchengmfa/individual_project.git
 | 111 | Mihkel Kaarma            | B8              |     mihkelkaarma             | 2021-10-20    |  https://github.com/mihkelkaarma/individual_project
 | 112 | Sylvia Hu           | B10              |     Sylvia199808            | 2021-10-20    |  https://github.com/Sylvia199808/my_website
+| 113 | Aditi Lapasia| A8 |  aditilapasia | https://github.com/aditilapasia/website | https://aditilapasia-portfolio.netlify.app/ | 21/10/2021      |
