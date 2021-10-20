@@ -138,4 +138,4 @@
 | 108 | Kaize Ying           | A9             |     Kaize Ying            | 2021-10-04    |  
 | 109 | Teen Ho Nicholas Ching            | A8              |     nickching98             | 2021-10-04    |  
 | 110 | Yuxin Cheng            | A14              |     yuxinchengmfa             | 2021-10-04    |  https://github.com/yuxinchengmfa/individual_project.git
-
+| 111 | Mihkel Kaarma            | B8              |     mihkelkaarma             | 2021-10-20    |  https://github.com/mihkelkaarma/individual_project
